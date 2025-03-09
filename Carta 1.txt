@@ -1,0 +1,8 @@
+Carta 1
+Estado (char)
+Código da carta (char[])
+Nome da cidade (char[])
+População (int)
+Área em km² (float)
+Pib (float)
+Números de pontos turísticos(int)
